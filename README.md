@@ -4,19 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashi80ashi&label=Profile%20views&color=0e75b6&style=flat" alt="ashi80ashi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashi80ashi" alt="ashi80ashi" /></a> </p>
-
 - 🌱 I’m currently learning **REACT JS**
 
 - 📝 I regularly write articles on [https://ashii.hashnode.dev/](https://ashii.hashnode.dev/)
 
 - 💬 Ask me about **Web development and designing**
 
-- 📫 Reach me at **ashi80ashi@gmail.com**
+- 📫 How to reach me **ashi80ashi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish singh (https://www.linkedin.com/in/ashish-singh-93a163215)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish singh (https://www.linkedin.com/in/ashish-singh-93a163215)" height="30" width="40" /></a>
 <a href="https://hashnode.com/ashish (https://ashii.hashnode.dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ashish (https://ashii.hashnode.dev/)" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashi80ashi&show_icons=true&locale=en" alt="ashi80ashi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashi80ashi&" alt="ashi80ashi" /></p>
+
