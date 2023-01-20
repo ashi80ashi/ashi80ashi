@@ -1,4 +1,4 @@
-[![MasterHead](/image/cover.gif)]
+![MasterHead](/image/banner.gif)
 <h1 align="center">Hi 👋, I'm ASHISH</h1>
 <h3 align="center">Aspiring MERN stack</h3>
 
