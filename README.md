@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web development and designing**
 
-- 📫 How to reach me **ashi80ashi@gmail.com**
+- 📫 Reach me at **ashi80ashi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
