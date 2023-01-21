@@ -1,5 +1,5 @@
 ![MasterHead](./image/banner.gif)
-<h1 align="center">Hi 👋, I'm ASHISH</h1>
+<h1 align="center">Hi, I'm ASHISH</h1>
 <h3 align="center">Passionate Web developer & Aspiring MERN stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashi80ashi&label=Profile%20views&color=0e75b6&style=flat" alt="ashi80ashi" /> </p>
@@ -14,7 +14,7 @@
 
 - 📫 Reach me  at **ashi80ashi@gmail.com**
 
--   connect on LinkdIN [ASHISH](https://www.linkedin.com/in/ashish-singh-93a163215)
+- 👋 connect on LinkdIN [ASHISH](https://www.linkedin.com/in/ashish-singh-93a163215)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
