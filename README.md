@@ -34,9 +34,9 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="60"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="60"/> </a> 
 
-<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashi80ashi&show_icons=true&locale=en&layout=compact" alt="ashi80ashi" /></p>
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashi80ashi&show_icons=true&locale=en&layout=compact" alt="ashi80ashi" /></p>
 
-<p>&nbsp;<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=ashi80ashi&show_icons=true&locale=en" alt="ashi80ashi" /></p>
+<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ashi80ashi&show_icons=true&locale=en" alt="ashi80ashi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashi80ashi&" alt="ashi80ashi" /></p>
 
