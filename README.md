@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="image\image.png">
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
 - 💬 Ask me about **Web development and designing**
 
