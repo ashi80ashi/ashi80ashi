@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
--  searching **REACT DEVELOPER** Job
+- 🔍 Searching **REACT DEVELOPER** Job
 
 - 💬 Ask me about **Web development and designing**
 
