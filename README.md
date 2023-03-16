@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
-- 🔍 Searching **REACT DEVELOPER** Job
-
 - 💬 Ask me about **Web development and designing**
 
 - 📝 I regularly write articles on [Hashnode](https://ashii.hashnode.dev/)
