@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="image\image.png">
 
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
+- 🌱 I’m **FrontEnd Web Developer**
 
 - 💬 Ask me about **Web development and designing**
 
